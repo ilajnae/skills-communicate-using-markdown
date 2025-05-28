@@ -12,3 +12,9 @@ I have just added different header sizes to this markdown
 ``` python
 print("Hello, world!")
 ```
+
+# Adding a Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
